@@ -1,21 +1,4 @@
 
-<p align="center">
-   <b>CONNECT WITH ME</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,discord,linkedin,replit,stackoverflow" />
-  </a><br/>
- 
-</p>
-
-<p align="center">
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides"><img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/databases"><img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
-  <a target="_blank"href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/programming%20languages"><img src="https://img.shields.io/badge/whatsapp channel-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors"><img src="https://img.shields.io/badge/my blog-orange?style=for-the-badge&color=FFFF00" /></a>&nbsp;
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/frameworks"><img src="https://img.shields.io/badge/portfolio-orange?style=for-the-badge&color=673AB7" /></a>&nbsp;
-
-
-</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&weight=300&size=25&pause=1043&color=0EF0AA&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey+Stranger!+%F0%9F%91%BE+I'+m+Pasindu+Prabash+Peiris;I'm+a+full+stack+web+developer%2C+designer;I'm+an+undergraduate+student+at+SLIIT;You+can+contact+me+using+the+links+above)](https://git.io/typing-svg)
 
