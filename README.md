@@ -19,8 +19,8 @@
 
 <br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,figma, )](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,ps,codepen,xd)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,eclipse,ps,codepen,xd,figma)](https://skillicons.dev)
 
 
 
