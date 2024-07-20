@@ -20,7 +20,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dmmi0beky8x3tssrl54k612hb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dmmi0beky8x3tssrl54k612hb&redirect=true)
 </h2>
 
-![Pasindu-Peiris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasindu-Peiris&show_icons=true&theme=merko)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Peiris&show_icons=true&theme=merko" alt="Pasindu-Peiris's GitHub stats">
+</div>
 
 
 <br/>
