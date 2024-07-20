@@ -9,7 +9,7 @@
 
 
 
-# Hey Stranger! 👾
+## 🔗Hey Stranger! 👾
 ### **I'm Pasindu Peiris** - I'm a Beginner full stack web developer, designer and I'm an undergraduate student at SLIIT. I'm interested in learning new web development technology, I'm currently working on MERN Stack projects.
 
 
