@@ -9,11 +9,10 @@
 
 
 
-## 🔗Hey Stranger! 👾
-### **I'm Pasindu Peiris** - I'm a Beginner full stack web developer, designer and I'm an undergraduate student at SLIIT. I'm interested in learning new web development technology, I'm currently working on MERN Stack projects.
 
 
-<h2 align='center'>
+
+<h2 align='left'>
 
 👽 Listen My Peace Here 👽
 
@@ -26,8 +25,7 @@
 </div>
 
 
-<br/>
-
+## 🔗 Powers 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,eclipse,codepen,figma)](https://skillicons.dev)
 
