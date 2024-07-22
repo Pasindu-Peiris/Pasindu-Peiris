@@ -7,8 +7,8 @@
 
 
 ## 🔗 Powers 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,eclipse,codepen,figma)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,vercel,vscode,visualstudio,webstorm,idea,androidstudio,eclipse,codepen,figma)](https://skillicons.dev) 
+
 
 ##
 <h2 align='center'>
@@ -24,8 +24,6 @@
 
 <div align="center">
   
-
   [![GitHub Streak](https://streak-stats.demolab.com?user=Pasindu%20Peiris&theme=github-dark)](https://git.io/streak-stats)
-
 </div>
 
