@@ -12,7 +12,8 @@
 
 
 
-<h2 align='right'>
+<h2 align='center'>
+
 
 👽 Listen My Peace Here 👽
 
@@ -22,7 +23,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Peiris&show_icons=true&theme=merko" alt="Pasindu-Peiris's GitHub stats">
+
 </div>
+
 
 
 ## 🔗 Powers 
@@ -30,5 +33,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,eclipse,codepen,figma)](https://skillicons.dev)
 
 
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Pasindu%20Peiris&theme=github-dark)](https://git.io/streak-stats)
 
