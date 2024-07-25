@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=1100&height=100&lines=Hey+%2C+I'm+Pasindu+Prabash+Peiris+%F0%9F%91%BB;I'm+an+undergraduate+student+from+SLIIT+%F0%9F%8E%93;Interested+in+full+stack+web+development+and+design+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&weight=300&size=30&pause=1043&color=0EF0AA&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey+Stranger!+%F0%9F%91%BE+I'+m+Pasindu+Prabash+Peiris;I'm+a+full+stack+web+developer%2C+designer;I'm+an+undergraduate+student+at+SLIIT;You+can+contact+me+using+the+links+above)](https://git.io/typing-svg)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
