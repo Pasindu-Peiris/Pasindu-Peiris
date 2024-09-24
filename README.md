@@ -21,8 +21,4 @@
 
 
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Pasindu%20Peiris&theme=github-dark)](https://git.io/streak-stats)
-</div>
 
