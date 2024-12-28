@@ -4,9 +4,17 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
 
+<p align="center">
+  
+![Pasindu-Peiris's Stats](https://github-readme-stats.vercel.app/api?username=Pasindu-Peiris&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  
+</p>
+
 
 ## 🔗 Powers 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,sass,tailwind,jquery,react,vite,nextjs,angular,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,vercel,vscode,visualstudio,webstorm,idea,androidstudio,eclipse,codepen,figma)](https://skillicons.dev) 
+
+
 
 
 ##
@@ -19,8 +27,5 @@
 </h2>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Peiris&theme=nightowl&show_icons=true&hide_border=true&count_private=false" alt="Pasindu-Peiris's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Peiris&theme=nightowl&hide_border=true" alt="Pasindu-Peiris's Streak" />
-</p>
+
 
