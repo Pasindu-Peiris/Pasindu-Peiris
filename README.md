@@ -19,6 +19,7 @@
 </h2>
 
 
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Peiris&theme=nightowl&show_icons=true&hide_border=true&count_private=false" alt="Pasindu-Peiris's Stats" style="display: inline-block; margin-right: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Peiris&theme=nightowl&hide_border=true" alt="Pasindu-Peiris's Streak" style="display: inline-block;" />
+</div>
